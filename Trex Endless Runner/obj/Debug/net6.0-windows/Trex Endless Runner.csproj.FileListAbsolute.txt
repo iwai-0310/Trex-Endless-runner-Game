@@ -1,0 +1,18 @@
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\bin\Debug\net6.0-windows\Trex Endless Runner.exe
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\bin\Debug\net6.0-windows\Trex Endless Runner.deps.json
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\bin\Debug\net6.0-windows\Trex Endless Runner.runtimeconfig.json
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\bin\Debug\net6.0-windows\Trex Endless Runner.dll
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\bin\Debug\net6.0-windows\Trex Endless Runner.pdb
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex Endless Runner.csproj.AssemblyReference.cache
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex_Endless_Runner.Form1.resources
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex_Endless_Runner.Properties.Resources.resources
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex Endless Runner.csproj.GenerateResource.cache
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex Endless Runner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex Endless Runner.AssemblyInfoInputs.cache
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex Endless Runner.AssemblyInfo.cs
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex Endless Runner.csproj.CoreCompileInputs.cache
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex Endless Runner.dll
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\refint\Trex Endless Runner.dll
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex Endless Runner.pdb
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\Trex Endless Runner.genruntimeconfig.cache
+C:\Users\chaze\source\repos\Trex Endless Runner\Trex Endless Runner\obj\Debug\net6.0-windows\ref\Trex Endless Runner.dll
